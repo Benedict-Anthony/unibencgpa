@@ -1,0 +1,4 @@
+after cloning do this
+open terminal
+typ " npm i"
+when its done, type npm start
